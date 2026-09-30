@@ -118,3 +118,67 @@ Service
 Repository
    ↓
 MySQL
+
+
+---
+
+## 📚 Currently Learning
+
+- 🔹 Advanced DSA
+- 🔹 Spring Boot & Backend Development
+- 🔹 Java Interview Concepts
+- 🔹 SQL & DBMS
+- 🔹 Redis & Caching
+- 🔹 Multithreading
+- 🔹 System Design Fundamentals
+
+---
+
+## 🎯 Career Focus
+
+Building strong fundamentals in **Java, Backend Development, DSA, SQL and
+System Design** to start my career as a Backend Developer.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=deepeshtiwari-dev&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepeshtiwari-dev&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=deepeshtiwari-dev&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/deepeshtiwari-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Always learning. Always building. 🚀**
+
+</div>

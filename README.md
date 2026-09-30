@@ -120,7 +120,7 @@ Repository
 MySQL
 
 
----
+```
 
 ## 📚 Currently Learning
 
